@@ -1,0 +1,92 @@
+percentage,level,harm_rate,plants
+10,good,5.50%,Chlorella
+11,good,7.50%,Chlorella
+12,good,7.50%,Chlorella
+13,good,7.50%,Chlorella
+14,good,7.50%,Chlorella
+15,good,7.50%,Chlorella
+16,good,10%,Spirulina 
+17,good,10%,Spirulina 
+18,good,10%,Spirulina 
+19,good,10%,Diatoms
+20,good,10%,Diatoms
+21,intermediate,11.70%,Diatoms
+22,intermediate,14%,Macroalgae
+23,intermediate,16%,Macroalgae
+24,intermediate,17.35%,Macroalgae
+25,intermediate,19%,Ulva
+26,intermediate,21%,Ulva
+27,intermediate,22.90%,Ulva
+28,intermediate,25%,Porphyra
+29,intermediate,27%,Porphyra
+30,intermediate,28.45%,Porphyra
+31,intermediate,30%,Euglena
+32,intermediate,32%,Euglena
+33,intermediate,34.00%,Euglena
+34,intermediate,36%,Dunaliella salina
+35,intermediate,38%,Dunaliella salina
+36,intermediate,39.55%,Dunaliella salina
+37,intermediate,41%,Haematococcus pluvialis
+38,intermediate,43%,Haematococcus pluvialis
+39,intermediate,45.10%,Haematococcus pluvialis
+40,intermediate,47%,Oscillatoria
+41,medium,49%,Oscillatoria
+42,medium,50.65%,Oscillatoria
+43,medium,53%,Scenedesmus
+44,medium,54%,Scenedesmus
+45,medium,56.20%,Scenedesmus
+46,medium,58%,Nannochloropsis
+47,medium,60%,Nannochloropsis
+48,medium,61.75%,Nannochloropsis
+49,medium,64%,Nannochloropsis
+50,medium,65%,Botryococcus braunii
+51,medium,67.30%,Botryococcus braunii
+52,medium,69%,Botryococcus braunii
+53,medium,71%,Botryococcus braunii
+54,medium,72.85%,Chaetoceros
+55,medium,75%,Chaetoceros
+56,medium,76%,Chaetoceros
+57,medium,77%,Chaetoceros
+58,medium,78%,Isochrysis galbana
+59,medium,79%,Isochrysis galbana
+60,medium,80%,Isochrysis galbana
+61,alert,81%,Isochrysis galbana
+62,alert,82%,Isochrysis galbana
+63,alert,84%,Anabaena
+64,alert,85%,Anabaena
+65,alert,86%,Anabaena
+66,alert,87%,Anabaena
+67,alert,88%,Anabaena
+68,alert,89%,Neochloris oleoabundans
+69,alert,90%,Neochloris oleoabundans
+70,alert,90%,Neochloris oleoabundans
+71,alert,90%,Neochloris oleoabundans
+72,alert,90%,Neochloris oleoabundans
+73,alert,90%,Selenastrum capricornutum
+74,alert,90%,Selenastrum capricornutum
+75,alert,90%,Selenastrum capricornutum
+76,bad,90%,Selenastrum capricornutum
+77,bad,90%,Desmodesmus
+78,bad,90%,Desmodesmus
+79,bad,90%,Desmodesmus
+80,bad,90%,Desmodesmus
+81,bad,90%,Desmodesmus
+82,bad,90%,Pediastrum
+83,bad,90%,Pediastrum
+84,bad,90%,Pediastrum
+85,bad,90%,Pediastrum
+86,bad,90%,Pediastrum
+87,bad,90%,Thalassiosira
+88,bad,90%,Thalassiosira
+89,bad,90%,Thalassiosira
+90,bad,90%,Thalassiosira
+91,bad,91%,Botryococcus sudeticus
+92,bad,92%,Botryococcus sudeticus
+93,worst,93%,Botryococcus sudeticus
+94,worst,94%,Botryococcus sudeticus
+95,worst,95%,Cryptomonas
+96,worst,96%,Cryptomonas
+97,worst,97%,Cryptomonas
+98,worst,98%,Nitzschia
+99,worst,99%,Nitzschia
+100,worst,100%,Nitzschia
